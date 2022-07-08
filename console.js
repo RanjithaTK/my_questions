@@ -17,3 +17,8 @@ console.log(dupe(number))
 //another way
 // new set removes the duplicates and gives a new set with no duplicates,using spread operator it is able to convert to array
 console.log([...new Set(number)])
+
+//////////////////////
+console.log(5 < 6 < 7) //true true=1; ie 1<7 is true
+console.log(7 > 6 > 5) //false true=1;1>5 is false
+console.log(7 > 6 < 5) //true
