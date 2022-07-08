@@ -8,3 +8,7 @@ for (let i = 0; i < a.length; i++) {
 }
 console.log(b)
 // console.log(b)
+
+//anotherway
+//new set removes the duplicates and gives a new set with no duplicates,using spread operator it is able to convert to array
+console.log([...new Set(a)])
