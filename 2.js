@@ -59,3 +59,4 @@ function SearchingChallenge(str) {
 console.log(SearchingChallenge("Today, is the greatest day ever!"))
 // console.log(SearchingChallenge("Today, is the greatest day ever!"))
 // console.log(SearchingChallenge("Today, is the greatest day ever!"))
+// console.log(SearchingChallenge("Today, is the greatest day ever!"))
